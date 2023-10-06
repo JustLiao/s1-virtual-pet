@@ -31,8 +31,8 @@ public class VirtualPet {
         face.setMessage("1, 2, 3, jump.  Whew.");
         face.setImage("tired");
         if (tiredness < 4){
-            face.setMessage("RAAAAAAH")
-            face.setImage("ecstatic")
+            face.setMessage("RAAAAAAH");
+            face.setImage("ecstatic");
         }
     }
     
